@@ -6,12 +6,12 @@
   "static/js/1.898f1618.chunk.js.map": "./static/js/1.898f1618.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
   "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
-  "static/media/font.css": "./static/media/open-sans-v13-latin-700.bdafb9df.ttf",
+  "static/media/font.css": "./static/media/fira-mono-v4-latin-regular.0161d436.ttf",
   "static/media/pattern1.png": "./static/media/pattern1.8307ed25.png",
   "static/media/pattern2.png": "./static/media/pattern2.26e363f0.png",
   "static/media/code_mapping.png": "./static/media/code_mapping.545a0be2.png",
   "static/css/1.4b123b8c.chunk.css.map": "./static/css/1.4b123b8c.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.4257b2d4a212840a5c4c7efffc8b2c94.js": "./precache-manifest.4257b2d4a212840a5c4c7efffc8b2c94.js",
+  "precache-manifest.14a7d21d81672fe87570edcc9d10651a.js": "./precache-manifest.14a7d21d81672fe87570edcc9d10651a.js",
   "service-worker.js": "./service-worker.js"
 }
