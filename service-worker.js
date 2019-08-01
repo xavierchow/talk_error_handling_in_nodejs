@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/talk_error_handling_in_nodejs/../precache-manifest.13c5b90981ca98e786f2aa26f7836c8a.js"
+  "/talk_error_handling_in_nodejs/precache-manifest.fe52903f32b51317b8a459f63a9628b4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/talk_error_handling_in_nodejs/../index.html", {
+workbox.routing.registerNavigationRoute("/talk_error_handling_in_nodejs/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
