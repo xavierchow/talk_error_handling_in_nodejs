@@ -9,7 +9,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "545a0be257f0d37ad1731799065334be",
-    "url": "/talk_error_handling_in_nodejs/static/media/code_mapping.545a0be2.png"
+    "url": "/talk_error_handling_in_nodejs/static/media/code_apping.545a0be2.png"
   },
   {
     "revision": "cbabfec66ca86e80dc52",
