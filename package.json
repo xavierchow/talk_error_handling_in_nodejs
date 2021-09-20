@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.0",
-    "prismjs": "^1.24.0",
+    "prismjs": "^1.25.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "spectacle-code-slide": "^0.5.2",
